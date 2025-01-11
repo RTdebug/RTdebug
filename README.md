@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @RTdebug
-- 👀 I’m interested in Data Science and Coding
-- 🌱 I’m currently learning Python
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @RTdebug
+
+  /\_/\  
+ ( o.o ) 
+  > ^ <
+
+Now let's move:
+
+    /\_/\  
+   ( o.o ) 
+    > ^ <   
+
+Another move:
+
+     /\_/\  
+    ( o.o ) 
+     > ^ <  
+
+And another!
+
+      /\_/\  
+     ( o.o ) 
+      > ^ <  
+
 
 <!---
 RTdebug/RTdebug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
